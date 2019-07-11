@@ -14,7 +14,10 @@
   display: flex;
   align-items: center;
 }
-
+.Logo a {
+  text-decoration: none;
+  color: #000000;
+}
 
 .Slider {
   width: 340px;
